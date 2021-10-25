@@ -1,11 +1,7 @@
-![21 Savage](public/21savage.jpg)
+<img src = "savage.gif" width= 100%>
 
-## Installation
+## 🎧  Goal
+Create an app where users can post messages to 21 Savage fan board, thumbs up, thumbs down and delete messages from the database.
 
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
+## 🎧  How it's made
+Made using HTML, CSS, Javascript, Node.js, JSON, Express, EJS, MongoDB.
